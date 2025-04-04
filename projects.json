@@ -1,0 +1,35 @@
+[
+    {
+        "url": "./images/ThreeJs.png",
+        "project_title": "Static Birthday Wish",
+        "tech_stacks": ["HTML", "CSS", "ThreeJs"],
+        "description": "A static Birthday Wish made using plain HTML, CSS and JS along with ThreeJs animation",
+        "github_link": "https://github.com/Udesh-Regmi/Javascript/blob/main/Projects_In_Javascript/Birthday_Three_Js/index.html",
+        "realtime_link": "https://udesh-regmi.github.io/Javascript/Projects_In_Javascript/Birthday_Three_Js/"
+    },
+    {
+        "url": "./images/portfolio.png",
+        "project_title": "Portfolio Website",
+        "tech_stacks": ["HTML", "CSS", "JavaScript"],
+        "description": "Responsive portfolio website with smooth animations and modern design principles.",
+        "github_link": "https://github.com/Udesh-Regmi/Portfolio/",
+        "realtime_link": "https://udeshregmi.com.np/"
+    },
+    {
+        "url": "./images/Todo-Extension.png",
+        "project_title": "To-do List Extension",
+        "tech_stacks": ["HTML", "CSS", "JavaScript"],
+        "description": "A web extension made using HTML, CSS and JS for listing todos using client-side local storage",
+        "github_link": "https://github.com/Udesh-Regmi/Javascript/blob/main/Projects_In_Javascript/Extension_Todo_List/index.html",
+        "realtime_link": "https://udesh-regmi.github.io/Javascript/Projects_In_Javascript/Extension_Todo_List/index.html"
+    },
+    {
+        "url": "./images/strange-message.vercel.app_.png",
+        "project_title": "Anonymous Messaging Along with Wish Creation App",
+        "tech_stacks": ["Next JS", "Shadcn UI", "tailwindcss", "ThreeJs"],
+        "description": "A messaging app in which you can message anyone with a link without revealing your identity.",
+        "description_2": "Also an app in which you can create custom wishes for your loved ones according to celebration type.",
+        "github_link": "https://github.com/Udesh-Regmi/Strange-Messages",
+        "realtime_link": "https://strange-message.vercel.app/"
+    }
+]
